@@ -36,7 +36,7 @@ for i in range (n):
     elif opinion=="no":
         print(f"The total sale from {name} is :${total}")
 
-    print("--------------*****---------------")
+    print("--------------*****--------------")
     info.append([name,amount,opinion,total])
 
 
